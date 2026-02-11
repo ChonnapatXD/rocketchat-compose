@@ -1,0 +1,25 @@
+{
+  "name": "rocketchat-compose",
+  "version": "1.0.0",
+  "description": "If you are using the built in MongoDB and are still using the Bitnami MongoDB Images please see this important forum post on how to update:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketChat/rocketchat-compose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RocketChat/rocketchat-compose/issues"
+  },
+  "homepage": "https://github.com/RocketChat/rocketchat-compose#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "openai": "^6.21.0"
+  }
+}
